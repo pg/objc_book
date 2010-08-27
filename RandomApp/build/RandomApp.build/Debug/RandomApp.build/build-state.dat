@@ -1,0 +1,208 @@
+TRandomApp
+v7
+r0
+t299479345.560113
+cCheck dependencies
+cProcessInfoPlistFile /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist RandomApp-Info.plist
+cCopyStringsFile /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/shaz/Documents/Code/GitHub/RandomApp/English.lproj/MainMenu.xib
+cDistributed-CompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o /Users/shaz/Documents/Code/GitHub/RandomApp/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o /Users/shaz/Documents/Code/GitHub/RandomApp/RandomAppAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cDistributed-CompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/Foo.o /Users/shaz/Documents/Code/GitHub/RandomApp/Foo.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp normal x86_64
+cTouch /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C2236D900000000000000EE
+t1277310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/English.lproj/InfoPlist.strings
+c000000004BE40BF9000000000000002D
+t1273236473
+s45
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/English.lproj/MainMenu.xib
+c000000004BE410D1000000000002F916
+t1273237713
+s194838
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/Foo.h
+c000000004BE40F320000000000000122
+t1273237298
+s290
+i<Cocoa/Cocoa.h>
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/Foo.m
+c000000004BE4D51E00000000000002D2
+t1273287966
+s722
+i"Foo.h"
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/RandomAppAppDelegate.h
+c000000004BE40BF90000000000000141
+t1273236473
+s321
+i<Cocoa/Cocoa.h>
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/RandomAppAppDelegate.m
+c000000004BE40BF90000000000000178
+t1273236473
+s376
+i"RandomAppAppDelegate.h"
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/RandomApp_Prefix.pch
+c000000004BE40BF90000000000000095
+t1273236473
+s149
+i<Cocoa/Cocoa.h>
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app
+t1277786545
+s102
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist
+t1273236489
+s892
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp
+t1277786545
+s15848
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/PkgInfo
+t1273236489
+s8
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1273236490
+s92
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/MainMenu.nib
+t1273237820
+s37028
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/Foo.o
+t1273288013
+s16500
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomApp.LinkFileList
+c000000004BE4113B000000000000016E
+t1273237819
+s366
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o
+t1273236494
+s21160
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o
+t1273236494
+s5000
+
+N/Users/shaz/Documents/Code/GitHub/RandomApp/main.m
+c000000004BE40BF900000000000000FF
+t1273236473
+s255
+i<Cocoa/Cocoa.h>
+
+NRandomApp-Info.plist
+c000000004BE40BF900000000000003EA
+t1273236473
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299479343#299479343#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileXIB /Users/shaz/Documents/Code/GitHub/RandomApp/English.lproj/MainMenu.xib
+s294930619.784737
+e294930620.594205
+r1
+xCompileXIB
+x/Users/shaz/Documents/Code/GitHub/RandomApp/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib294930619#294930620#0(0"0(0#0#70"/Users/shaz/Documents/Code/GitHub/RandomApp/English.lproj/MainMenu.xib32651569751457900#381"    cd /Users/shaz/Documents/Code/GitHub/RandomApp    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/MainMenu.nib /Users/shaz/Documents/Code/GitHub/RandomApp/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s294929289.974462
+e294929290.293466
+r1
+xCopyStringsFile
+x/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings294929289#294929290#0(0"0(0#0#75"/Users/shaz/Documents/Code/GitHub/RandomApp/English.lproj/InfoPlist.strings8611086272#377"    cd /Users/shaz/Documents/Code/GitHub/RandomApp    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/Resources/English.lproj0#
+
+CDistributed-CompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/Foo.o /Users/shaz/Documents/Code/GitHub/RandomApp/Foo.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294980813.036575
+e294980813.814223
+r1
+xDistributed-CompileC
+xbuild/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/Foo.o
+x/Users/shaz/Documents/Code/GitHub/RandomApp/Foo.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Distribute compilation of /Users/shaz/Documents/Code/GitHub/RandomApp/Foo.m294980813#294980813#0(0"0(0#0#49"/Users/shaz/Documents/Code/GitHub/RandomApp/Foo.m8631168928#1640"    cd /Users/shaz/Documents/Code/GitHub/RandomApp    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS localhost    setenv DISTCC_SYSTEM "10.6.3 (10D573, i386)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-generated-files.hmap -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-own-target-headers.hmap -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-all-target-headers.hmap -iquote /Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-project-headers.hmap -fpch-preprocess -F/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/include -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources/x86_64 -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources -include /Users/shaz/Documents/Code/GitHub/RandomApp/RandomApp_Prefix.pch -c /Users/shaz/Documents/Code/GitHub/RandomApp/Foo.m -o /Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/Foo.o0#
+
+CDistributed-CompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o /Users/shaz/Documents/Code/GitHub/RandomApp/RandomAppAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294929290.415588
+e294929294.311536
+r1
+xDistributed-CompileC
+xbuild/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o
+x/Users/shaz/Documents/Code/GitHub/RandomApp/RandomAppAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Distribute compilation of /Users/shaz/Documents/Code/GitHub/RandomApp/RandomAppAppDelegate.m294929290#294929294#0(0"0(0#0#66"/Users/shaz/Documents/Code/GitHub/RandomApp/RandomAppAppDelegate.m8609352832#1674"    cd /Users/shaz/Documents/Code/GitHub/RandomApp    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS localhost    setenv DISTCC_SYSTEM "10.6.3 (10D573, i386)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-generated-files.hmap -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-own-target-headers.hmap -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-all-target-headers.hmap -iquote /Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-project-headers.hmap -fpch-preprocess -F/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/include -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources/x86_64 -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources -include /Users/shaz/Documents/Code/GitHub/RandomApp/RandomApp_Prefix.pch -c /Users/shaz/Documents/Code/GitHub/RandomApp/RandomAppAppDelegate.m -o /Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomAppAppDelegate.o0#
+
+CDistributed-CompileC build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o /Users/shaz/Documents/Code/GitHub/RandomApp/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s294929290.400449
+e294929294.092355
+r1
+xDistributed-CompileC
+xbuild/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o
+x/Users/shaz/Documents/Code/GitHub/RandomApp/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Distribute compilation of /Users/shaz/Documents/Code/GitHub/RandomApp/main.m294929290#294929294#0(0"0(0#0#50"/Users/shaz/Documents/Code/GitHub/RandomApp/main.m8610304192#1642"    cd /Users/shaz/Documents/Code/GitHub/RandomApp    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS localhost    setenv DISTCC_SYSTEM "10.6.3 (10D573, i386)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-generated-files.hmap -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-own-target-headers.hmap -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-all-target-headers.hmap -iquote /Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/RandomApp-project-headers.hmap -fpch-preprocess -F/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/include -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources/x86_64 -I/Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/DerivedSources -include /Users/shaz/Documents/Code/GitHub/RandomApp/RandomApp_Prefix.pch -c /Users/shaz/Documents/Code/GitHub/RandomApp/main.m -o /Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp normal x86_64
+s299479343.763865
+e299479345.508042
+r1
+xLd
+x/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp
+xnormal
+xx86_64
+lSLF07#2@99"Link /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp299479343#299479345#0(0"0(0#0#0"23081149960487028#577"    cd /Users/shaz/Documents/Code/GitHub/RandomApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug -F/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug -filelist /Users/shaz/Documents/Code/GitHub/RandomApp/build/RandomApp.build/Debug/RandomApp.build/Objects-normal/x86_64/RandomApp.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/MacOS/RandomApp0#
+
+CProcessInfoPlistFile /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist RandomApp-Info.plist
+s294929289.961925
+e294929289.974187
+r1
+xProcessInfoPlistFile
+x/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist
+xRandomApp-Info.plist
+lSLF07#2@28"Process RandomApp-Info.plist294929289#294929289#0(0"0(0#0#64"/Users/shaz/Documents/Code/GitHub/RandomApp/RandomApp-Info.plist28992425118793828#331"    cd /Users/shaz/Documents/Code/GitHub/RandomApp    builtin-infoPlistUtility RandomApp-Info.plist -genpkginfo /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app/Contents/Info.plist0#
+
+CTouch /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app
+s299479345.508210
+e299479345.559881
+r1
+xTouch
+x/Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app
+lSLF07#2@75"Touch /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app299479345#299479345#0(0"0(0#0#0"8603070016#143"    cd /Users/shaz/Documents/Code/GitHub/RandomApp    /usr/bin/touch -c /Users/shaz/Documents/Code/GitHub/RandomApp/build/Debug/RandomApp.app0#
+

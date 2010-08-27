@@ -1,0 +1,165 @@
+Tlottery
+v7
+r0
+t304029422.270798
+cCheck dependencies
+cDistributed-CompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cDistributed-CompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug/lottery normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C36F45700000000000000EE
+t1278669911
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C342FC000000000000013E6
+t1278488512
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C11730A0000000000B37440
+t1276211978
+s11760704
+
+N/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.h
+c000000004C5F10B400000000000001E2
+t1281298612
+s482
+i<Cocoa/Cocoa.h>
+i<Foundation/Foundation.h>
+
+N/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m
+c000000004C6FF5C0000000000000042E
+t1282405824
+s1070
+i"LotteryEntry.h"
+
+N/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug/lottery
+t1282336622
+s16232
+
+N/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o
+t1282336621
+s11696
+
+N/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.LinkFileList
+c000000004C4A281100000000000000FB
+t1279928337
+s251
+
+N/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o
+t1282336621
+s6728
+
+N/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lotteryEntry.o
+t2
+s0
+
+N/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m
+c000000004C6FF5C000000000000003DD
+t1282405824
+s989
+i<Foundation/Foundation.h>
+i"LotteryEntry.h"
+
+N/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lotteryEntry.h
+c000000004C4659C700000000000000D5
+t1279678919
+s213
+i<Cocoa/Cocoa.h>
+
+N/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lotteryEntry.m
+c000000004C4659C700000000000000CB
+t1279678919
+s203
+i"lotteryEntry.h"
+
+N/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery_Prefix.pch
+c000000004C2C830B000000000000009C
+t1277985547
+s156
+i<Foundation/Foundation.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies304029415#304029415#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CDistributed-CompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s302991933.552139
+e302991934.496680
+r1
+xDistributed-CompileC
+xbuild/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o
+x/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Distribute compilation of /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m302991933#302991934#0(0"0(0#0#65"/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m8615526016#1713"    cd /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.4 (10F569, i386)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -fpch-preprocess -F/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug/include -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -include /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery_Prefix.pch -c /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m -o /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o0#
+
+CDistributed-CompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s304029415.692505
+e304029421.440312
+r1
+xDistributed-CompileC
+xbuild/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o
+x/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+odistcc[19215] ERROR: compile /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m on localhost:3632/2 failed
+odistcc[19215] (dcc_build_somewhere) Warning: remote compilation of '/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m' failed, retrying locally
+odistcc[19215] Warning: failed to distribute /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m to localhost:3632/2, running locally instead
+odistcc[19215] (dcc_please_send_email_after_investigation) Warning: remote compilation of '/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m' failed, retried locally and got a different result.
+lSLF07#2@91"Distribute compilation of /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m304029415#304029421#0(646"distcc[19215] ERROR: compile /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m on localhost:3632/2 faileddistcc[19215] (dcc_build_somewhere) Warning: remote compilation of '/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m' failed, retrying locallydistcc[19215] Warning: failed to distribute /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m to localhost:3632/2, running locally insteaddistcc[19215] (dcc_please_send_email_after_investigation) Warning: remote compilation of '/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m' failed, retried locally and got a different result.0(0#0#65"/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m8604095808#1753"    cd /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery    setenv DISTCC_COMPILER "Apple clang version 1.5 (tags/Apple/clang-60)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.4 (10F569, i386)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -fpch-preprocess -F/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug/include -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -include /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery_Prefix.pch -c /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/LotteryEntry.m -o /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/LotteryEntry.o0#
+
+CDistributed-CompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s302991419.140459
+e302991421.232493
+r1
+xDistributed-CompileC
+xbuild/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o
+x/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Distribute compilation of /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m302991419#302991421#0(0"0(0#0#60"/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m8029405159545332736#1703"    cd /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery    setenv DISTCC_COMPILER "gcc version 4.2.1 (Apple Inc. build 5664)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.4 (10F569, i386)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -fpch-preprocess -F/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug/include -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -include /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery_Prefix.pch -c /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m -o /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o0#
+
+CDistributed-CompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s304029415.672142
+e304029421.754683
+r1
+xDistributed-CompileC
+xbuild/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o
+x/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+odistcc[19214] ERROR: compile /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m on localhost:3632/2 failed
+odistcc[19214] (dcc_build_somewhere) Warning: remote compilation of '/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m' failed, retrying locally
+odistcc[19214] Warning: failed to distribute /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m to localhost:3632/2, running locally instead
+odistcc[19214] (dcc_please_send_email_after_investigation) Warning: remote compilation of '/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m' failed, retried locally and got a different result.
+lSLF07#2@86"Distribute compilation of /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m304029415#304029421#0(626"distcc[19214] ERROR: compile /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m on localhost:3632/2 faileddistcc[19214] (dcc_build_somewhere) Warning: remote compilation of '/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m' failed, retrying locallydistcc[19214] Warning: failed to distribute /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m to localhost:3632/2, running locally insteaddistcc[19214] (dcc_please_send_email_after_investigation) Warning: remote compilation of '/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m' failed, retried locally and got a different result.0(0#0#60"/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m8029405159545332736#1743"    cd /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery    setenv DISTCC_COMPILER "Apple clang version 1.5 (tags/Apple/clang-60)"    setenv DISTCC_HOSTS "localhost:3632/2"    setenv DISTCC_SYSTEM "10.6.4 (10F569, i386)"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/distcc /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-generated-files.hmap -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-own-target-headers.hmap -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-all-target-headers.hmap -iquote /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/lottery-project-headers.hmap -fpch-preprocess -F/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug/include -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/DerivedSources/x86_64 -I/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/DerivedSources -include /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery_Prefix.pch -c /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m -o /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.o0#
+
+CDistributed-CompileC build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lotteryEntry.o /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lotteryEntry.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug/lottery normal x86_64
+s304029421.754766
+e304029422.270741
+r1
+xLd
+x/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug/lottery
+xnormal
+xx86_64
+lSLF07#2@75"Link /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug/lottery304029421#304029422#0(0"0(0#0#0"8604457632#578"    cd /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug -F/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug -filelist /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/lottery.build/Debug/lottery.build/Objects-normal/x86_64/lottery.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/build/Debug/lottery0#
+

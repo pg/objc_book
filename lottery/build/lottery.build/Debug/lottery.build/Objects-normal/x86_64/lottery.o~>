@@ -1,0 +1,5 @@
+/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m: In function 'main':
+/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m:24: warning: no '-initWithEntryDate:' method found
+/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m:24: warning: (Messages without a matching method signature
+/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m:24: warning: will be assumed to return 'id' and accept
+/Users/shaz/Documents/Code/GitHub/ObjCBook/lottery/lottery.m:24: warning: '...' as arguments.)
